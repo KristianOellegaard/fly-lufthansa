@@ -149,7 +149,7 @@ INSTALLED_APPS = (
     'south',
     'sekizai',
     
-    'project'
+    'project',
     
     # CMS Plugins
     'cms.plugins.file',
