@@ -150,6 +150,18 @@ INSTALLED_APPS = (
     'sekizai',
     
     'project'
+    
+    # CMS Plugins
+    'cms.plugins.file'
+    'cms.plugins.flash'
+    'cms.plugins.googlemap'
+    'cms.plugins.link'
+    'cms.plugins.picture'
+    'cms.plugins.snippet'
+    'cms.plugins.teaser'
+    'cms.plugins.text'
+    'cms.plugins.video'
+    'cms.plugins.twitter'
 )
 
 # A sample logging configuration. The only tangible logging
